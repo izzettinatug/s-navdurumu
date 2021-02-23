@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ogrenci_sınav_notları_hesaplamaları/1.0.0": {
+        "runtime": {
+          "Ogrenci_sınav_notları_hesaplamaları.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ogrenci_sınav_notları_hesaplamaları/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
